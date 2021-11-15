@@ -1,14 +1,11 @@
 /******************************************************************************************************************************************************
  * Arduino MCP3551 library - Version 0.2
  *
- * Copyright (c) 2013 Simon Bauer.  All rights reserved.
  *
  * This library implements the SPI communication to one or more MCP3551 ADC devices using the single mode conversion.
  * 
  * Changelog 0.2:
  * Debugged and tested on Rosemount PT100.
- *
- * This code is licensed under a GPLv3 License.
  *
  *
  **********************************************************************************************/
